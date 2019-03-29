@@ -1,0 +1,7 @@
+/* Menu de navigation */
+
+nav li
+{
+    list-style-type: none;
+    display: flex;
+}

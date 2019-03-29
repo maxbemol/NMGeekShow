@@ -1,4 +1,4 @@
 AuthName "Page d'administration protégée"
 AuthType Basic
-AuthUserFile "C:/MAMP/htdocs/oc-phpmysql/admin/.htpasswd"
+AuthUserFile "C:/MAMP/htdocs/NMGeekShow/admin/.htpasswd"
 Require valid-user
